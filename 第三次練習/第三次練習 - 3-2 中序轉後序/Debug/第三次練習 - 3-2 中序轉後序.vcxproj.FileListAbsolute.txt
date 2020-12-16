@@ -1,0 +1,2 @@
+D:\ProgrammingLanguage\Practice\1092A\第三次練習\第三次練習 - 3-2 中序轉後序\Debug\第三次練習 - 3-2 中序轉後序.exe
+D:\ProgrammingLanguage\Practice\1092A\第三次練習\第三次練習 - 3-2 中序轉後序\Debug\第三次練習 - 3-2 中序轉後序.pdb

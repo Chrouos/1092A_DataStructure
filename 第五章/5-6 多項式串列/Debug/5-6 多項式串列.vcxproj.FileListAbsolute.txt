@@ -1,0 +1,2 @@
+D:\ProgrammingLanguage\Practice\1092A\5-6 多項式串列\Debug\5-6 多項式串列.exe
+D:\ProgrammingLanguage\Practice\1092A\5-6 多項式串列\Debug\5-6 多項式串列.pdb

@@ -1,0 +1,2 @@
+D:\ProgrammingLanguage\Practice\1092A\4-2 環狀佇列\Debug\4-2 環狀佇列.exe
+D:\ProgrammingLanguage\Practice\1092A\4-2 環狀佇列\Debug\4-2 環狀佇列.pdb
