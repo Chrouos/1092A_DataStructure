@@ -1,2 +1,0 @@
-D:\ProgrammingLanguage\Practice\1092A\第六章\6-2 鏈結串列建立二元樹\Debug\6-2 鏈結串列建立二元樹.exe
-D:\ProgrammingLanguage\Practice\1092A\第六章\6-2 鏈結串列建立二元樹\Debug\6-2 鏈結串列建立二元樹.pdb

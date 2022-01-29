@@ -1,2 +1,0 @@
-D:\ProgrammingLanguage\Practice\1092A\5-5 環狀鏈結串列\Debug\5-5 環狀鏈結串列.exe
-D:\ProgrammingLanguage\Practice\1092A\5-5 環狀鏈結串列\Debug\5-5 環狀鏈結串列.pdb

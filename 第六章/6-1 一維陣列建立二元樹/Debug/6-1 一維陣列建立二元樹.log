@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\ProgrammingLanguage\Practice\1092A\第六章\6-1 一維陣列建立二元樹\main.cpp(26,63): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-D:\ProgrammingLanguage\Practice\1092A\第六章\6-1 一維陣列建立二元樹\main.cpp(35,63): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
-  6-1 一維陣列建立二元樹.vcxproj -> D:\ProgrammingLanguage\Practice\1092A\第六章\6-1 一維陣列建立二元樹\Debug\6-1 一維陣列建立二元樹.exe

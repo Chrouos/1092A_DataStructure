@@ -1,2 +1,0 @@
-D:\ProgrammingLanguage\Practice\1092A\4-1 使用佇列進行Enqueue和Dequeue\Debug\4-1 使用佇列進行Enqueue和Dequeue.exe
-D:\ProgrammingLanguage\Practice\1092A\4-1 使用佇列進行Enqueue和Dequeue\Debug\4-1 使用佇列進行Enqueue和Dequeue.pdb

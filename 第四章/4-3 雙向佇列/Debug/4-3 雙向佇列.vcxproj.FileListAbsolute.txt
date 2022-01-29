@@ -1,2 +1,0 @@
-D:\ProgrammingLanguage\Practice\1092A\4-3 雙向佇列\Debug\4-3 雙向佇列.exe
-D:\ProgrammingLanguage\Practice\1092A\4-3 雙向佇列\Debug\4-3 雙向佇列.pdb

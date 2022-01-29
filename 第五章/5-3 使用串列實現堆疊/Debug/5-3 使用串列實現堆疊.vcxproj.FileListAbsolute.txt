@@ -1,2 +1,0 @@
-C:\Users\Avrill\source\repos\5-3 使用串列實現堆疊\Debug\5-3 使用串列實現堆疊.exe
-C:\Users\Avrill\source\repos\5-3 使用串列實現堆疊\Debug\5-3 使用串列實現堆疊.pdb

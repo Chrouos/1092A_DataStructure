@@ -1,2 +1,0 @@
-C:\Users\Avrill\source\repos\5-2 單向鏈結串列-反轉\Debug\5-2 單向鏈結串列-反轉.exe
-C:\Users\Avrill\source\repos\5-2 單向鏈結串列-反轉\Debug\5-2 單向鏈結串列-反轉.pdb
